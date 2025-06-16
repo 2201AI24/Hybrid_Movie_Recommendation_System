@@ -52,8 +52,8 @@ It enriches user experience with movie posters, metadata, and overviews by integ
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/2201AI24/movie-recommender.git
-cd movie-recommender
+git clone https://github.com/2201AI24/Hybrid_Movie_Recommendation_System.git
+cd Hybrid_Movie_Recommendation_System
 
 # 2. Create a virtual environment (optional)
 python -m venv venv
@@ -80,9 +80,7 @@ streamlit run app.py
    - Uses precomputed user-item ratings for recommending movies liked by similar users.  
 
 3. **Hybrid Score Calculation**  
-   \[
-   \text{final score} = \alpha \cdot \text{content similarity} + (1 - \alpha) \cdot \text{collaborative score}
-   \]
+   final score = (α)⋅content similarity + (1−α)⋅collaborative score
 
 4. **TMDB Integration**  
    - Fetches movie posters, genres, overviews, and release dates using TMDB API.
@@ -101,9 +99,8 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-| Recommender Tab | Evaluation Dashboard |
-|-----------------|----------------------|
-| ![rec](static/demo_recommendation.png) | ![eval](static/demo_evaluation.png) |
+![image_4](https://github.com/user-attachments/assets/0e59ed3f-a6a1-487a-ab91-0bfa9151d46f)
+
 
 ---
 
