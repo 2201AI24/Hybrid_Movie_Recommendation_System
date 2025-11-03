@@ -137,8 +137,8 @@ streamlit run app.py
 ## 📬 Contact
 
 **Metla Umesh Chandra**  
-Email: your_email@example.com  
-GitHub: [@your-username](https://github.com/your-username)  
+Email: metlaumeshchandra2005@example.com  
+GitHub: [@2201AI24](https://github.com/your-username)  
 
 ---
 
